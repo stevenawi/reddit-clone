@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## How to install dependencies
+## 1. How to install dependencies
 
-Install dependencies by using following commands
+Install dependencies by using the following command
 
 ### `npm i`
 
@@ -10,7 +10,17 @@ or
 
 ### `yarn`
 
-## How to run the app
+## 2. How to build project
+
+Build project by using the following command
+
+### `npm run build`
+
+or
+
+### `yarn run build`
+
+## 3. How to run the app
 
 After installation is finished, run the following command
 
