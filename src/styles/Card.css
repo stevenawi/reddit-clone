@@ -1,0 +1,49 @@
+.card {
+	display: flex;
+	align-items: center;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	background-color: rgba(0, 0, 0, 0.01);
+	margin: 0 auto;
+	margin-bottom: 1em;
+	max-width: 680px;
+}
+
+.card:hover {
+	border: 1px solid black;
+}
+
+.card__left {
+	display: flex;
+	flex-direction: column;
+	width: 40px;
+	align-items: center;
+	height: 100%;
+	align-self: flex-start;
+	padding: 8px;
+}
+
+.card__right {
+	flex: 1;
+	background-color: #fff;
+	padding: 8px;
+}
+
+.card__title {
+	font-size: 16px;
+	font-weight: 700;
+	margin-bottom: 0.5em;
+}
+
+.card__author {
+	font-size: 12px;
+	color: rgb(135, 138, 140);
+	margin-bottom: 0.5em;
+}
+
+.md p:first-child {
+	padding: 0 0 0.25em;
+}
+
+.md p:not(:first-child) {
+	padding: 0.8em 0 0.25em;
+}
