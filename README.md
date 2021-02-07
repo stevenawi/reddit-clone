@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project has been deployed in vercel, please check the following link
+https://reddit-clone-woad.vercel.app/
+
 ## 1. How to install dependencies
 Install dependencies by using the following command
 ### `npm i`
