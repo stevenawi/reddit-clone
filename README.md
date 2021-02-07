@@ -17,4 +17,4 @@ After installation is finished, run the following command
 ### `npm start`
 or
 ### `yarn start`
-Open web browser and type http://localhost:3000/ in address bar
+Open web browser and type http://localhost:3000/ in the address bar
