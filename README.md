@@ -14,7 +14,7 @@ or
 ### `yarn run build`
 
 ## 3. How to run the app
-After installation is finished, run the following command
+After build is finished, run the following command
 ### `npm start`
 or
 ### `yarn start`
